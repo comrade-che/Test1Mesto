@@ -9,7 +9,7 @@ import static io.restassured.RestAssured.given;
 import static org.hamcrest.Matchers.equalTo;
 
 public class Mesto1Test {
-
+    /// обновленный токен
     String bearerToken = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2NjE0Y2RlZWYwYTExODAwM2QyZDBkYTIiLCJpYXQiOjE3MTgwMzk1MzksImV4cCI6MTcxODY0NDMzOX0.NU0kt_7Ne9lmYyh3Jzke26hubb2_8wSbCVGM69uE9tY";
 
     @Before
